@@ -1,5 +1,11 @@
 # Lipi AI
 
+
+<img width="241" height="516" alt="Screenshot 2026-06-01 at 11 38 02 AM" src="https://github.com/user-attachments/assets/f0d591ec-16a9-4689-ae10-26e1855f209e" />
+<img width="160" height="349" alt="Screenshot 2026-06-01 at 11 38 28 AM" src="https://github.com/user-attachments/assets/f66a2f30-10a2-47bd-bf89-2d31f59e45ba" />
+<img width="157" height="345" alt="Screenshot 2026-06-01 at 11 38 49 AM" src="https://github.com/user-attachments/assets/45e9f864-a5f0-44fa-b1fb-924034a04083" />
+
+
 Lipi AI is a mobile application that helps researchers and language communities digitize text from low-resource scripts like Tibetan. It lets users capture text from challenging physical surfaces (stone, wood, paper), extract it using computer vision and OCR, and then send it to an AI translation backend for further processing and analysis.
 
 This repo contains the Flutter application that serves as the front end for the Lipi AI pipeline.
